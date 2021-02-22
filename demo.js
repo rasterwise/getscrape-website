@@ -19,7 +19,7 @@ var app = new Vue({
       }
       this.loading = true;    
       axios
-        .get('https://us-west3-waveguide-189221.cloudfunctions.net/getscrape_mainfunction?url='+this.url+'&extract=links', { crossdomain: true })  
+        .get('https://0lkdyh572d.execute-api.us-west-2.amazonaws.com/public/get-scrape-demo?url='+this.url+'&extract=links', { crossdomain: true })  
         .then(response => {
             this.result = response.data;
       })
