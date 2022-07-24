@@ -62,7 +62,7 @@ p {
   margin-left: 8px;
   padding: 14px 29px;
   border-radius: 5px;
-  background-color: #13805f;
+  background-color: #801336;
   -webkit-transition: background-color 300ms ease;
   transition: background-color 300ms ease;
   font-family: 'Roboto', sans-serif;
@@ -102,15 +102,15 @@ p {
 }
 
 .button.sign-up {
-  background-color: #00bb16;
+  background-color: #ee4540;
 }
 
 .button.sign-up:hover {
-  background-color: #01ac5c;
+  background-color: #c72c41;
 }
 
 .button.dark {
-  background-color: #142d23;
+  background-color: #2d142c;
   color: #fff;
   font-weight: 700;
 }
@@ -129,7 +129,7 @@ p {
 .section.hero {
   padding-top: 75px;
   padding-bottom: 0px;
-  background-color: #142d23;
+  background-color: #2d142c;
   text-align: center;
 }
 
@@ -175,13 +175,13 @@ p {
 .nav-link.sign-up {
   padding: 10px;
   border-radius: 5px;
-  background-color: #00bb16;
+  background-color: #ee4540;
   -webkit-transition: background-color 300ms ease;
   transition: background-color 300ms ease;
 }
 
 .nav-link.sign-up:hover {
-  background-color: #01ac5c;
+  background-color: #c72c41;
 }
 
 .nav-column {
@@ -198,7 +198,7 @@ p {
 .hero-heading {
   font-family: 'Roboto', sans-serif;
   color: #fff;
-  font-size: 45px;
+  font-size: 50px;
   margin-bottom: 15px;
   font-weight: 700;
 }
@@ -352,8 +352,8 @@ p {
 .nav-bar {
   padding-top: 21px;
   padding-bottom: 21px;
-  background-color: #142d23;
-  color: #142d23;
+  background-color: #2d142c;
+  color: #2d142c;
 }
 
 .image-crop {
@@ -526,7 +526,7 @@ p {
 
 .body {
   margin-left: 1px;
-  background-color: #142d23;
+  background-color: #2d142c;
 }
 
 .field-label {
